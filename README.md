@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About Me:
+🎓 I'm pursuing my Btech in Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur
+👯 I’m looking to collaborate with - Open Source Projects
+🌱 I’m currently learning Web Development & DSA
+💬 Ask me about Python, C, C++, Git, GitHub, Web Development
+😄 Pronouns: He/His
