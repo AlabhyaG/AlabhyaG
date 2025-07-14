@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alabhya Goel</h1>
-<h3 align="center">Hello I am a Python Developer, well versed in flask and django development and currently learning machine learning</h3>
+<h3 align="center">Hello I am a backend engineer with good knowledge in api development, data handling and whole devops</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alabhyag&label=Profile%20views&color=0e75b6&style=flat" alt="alabhyag" /> </p>
 
