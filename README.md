@@ -1,82 +1,109 @@
 <h1 align="center">Hi 👋, I'm Alabhya Goel</h1>
-<h3 align="center">I’m an Algorithm Engineer with expertise in backend development, data handling, and end-to-end DevOps pipelines.</h3>
+<h3 align="center">
+Backend & Algorithm Engineer building production-grade fintech systems, 
+scalable data pipelines, and agentic AI tools.
+</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alabhyag&label=Profile%20views&color=0e75b6&style=flat" alt="alabhyag" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alabhyag" alt="alabhyag" />
-  </a>
-</p>
-
-- 🔭 I’m currently working as an **Algorithm Engineer**
-- 💻 Experienced in **Python, Flask, PostgreSQL, AWS, Azure**, and **data pipeline development**
-- 🌱 Currently learning more about **Machine Learning** and **Deep Learning**
-- 💬 Ask me about **Django, Django REST Framework, Web Development**, or **Competitive Programming**
-- 📫 Reach me at **goelalabhya@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.codechef.com/users/alabhya_g" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alabhya_g" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/alabhyag" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alabhyag" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/alabhyag" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alabhyag" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="mailto:goelalabhya@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/alabhya-goel/">LinkedIn</a> •
+  <a href="https://github.com/AlabhyaG">GitHub</a> •
+  <a href="https://leetcode.com/u/G_Flow/">LeetCode</a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+## 🚀 About Me
+
+- Backend & Algorithm Engineer with **hands-on production experience in fintech**
+- Built systems processing **20M+ market records** with optimized indexing & caching
+- Designed and deployed **live algorithmic trading strategies**
+- Developed **agentic AI tools** reducing equity research workflows from **days to hours**
+- Strong ownership across **backend systems, data pipelines, cloud deployments, and APIs**
+
+Currently open to **US/EU startups and high-impact Indian startups** focused on backend-heavy roles.
 
 ---
+
+## 🏢 Professional Experience
+
+### **SIHO Research** — Algo Engineer *(Intern → Full-Time)*  
+📍 Noida | Oct 2024 – Present  
+
+- Built a **scalable market-data pipeline** processing **20M+ OHLCV records** across exchanges  
+  → Improved retrieval speed by **4×** using optimized indexing and caching  
+- Developed a **technical-analysis framework** with **20+ indicators**  
+  → Reduced manual equity research time by **30–40%**  
+- Created an **internal backtesting & paper-trading engine**  
+  → Enabled analysts to validate strategies **5× faster**  
+- Designed & deployed **production-grade algorithmic trading strategies**  
+  → Automated execution, capital allocation, and risk controls  
+- Integrated **AngelOne APIs** into InvestVidhi.com  
+  → Enabled one-click stock execution for users  
+- Built a **LangChain-based agentic AI equity research dashboard**  
+  → Reduced analyst workflows from **3–4 days to 3–4 hours**
+
+---
+
+### **Avkalan.ai** — Artificial Intelligence Intern *(Remote)*  
+🗓️ Jul 2024 – Oct 2024  
+
+- Built ML prototypes across **finance, healthcare, and retail**
+- Worked with **scikit-learn, pandas, matplotlib**
+- Contributed to internal AI research & automation POCs
+
+---
+
+## 🧠 Featured Project
+
+### **Ephemeral Chat Application**
+🔗 [Source Code](https://github.com/AlabhyaG/Ephemeral-Chat-Application)  
+🔗 [Live Demo](https://ephemeral-chat-application.onrender.com)
+
+- Built a **real-time chat backend** using **Flask, WebSockets (Socket.IO), Redis**
+- Supported **1:1 and small-group chats** with low-latency delivery
+- Implemented **ephemeral messaging** using Redis TTL  
+  → Messages auto-delete in **10 minutes**, zero disk persistence
+- Designed robust **server-side session management**
+  → Seamless reconnections & consistent room tracking
+
+---
+
+## 🛠️ Tech Stack
+
+**Core Backend**
+- Python, Flask, Redis, PostgreSQL, SQLAlchemy
+- REST APIs, WebSockets, Celery
+
+**AI & Data**
+- LangChain, LangGraph
+- Pandas, NumPy, TA-Lib
+
+**Cloud & DevOps**
+- AWS, Azure
+- Docker, GitHub Actions
+
+**Tools**
+- Git, Bitbucket, Pytest, VS Code
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **AIR 871** in **GATE 2024 – Data Science & AI** (39,210 candidates)
+- ⭐ **1670 rating on LeetCode**
+- 🎓 NPTEL Certifications:
+  - Computer Vision (IIT Kharagpur)
+  - Deep Learning (IIT Ropar)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlabhyaG&show_icons=true&layout=compact" />
+</p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alabhyag&show_icons=true&locale=en&layout=compact" alt="alabhyag" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alabhyag&show_icons=true&locale=en" alt="alabhyag" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlabhyaG&show_icons=true" />
 </p>
