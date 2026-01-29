@@ -21,7 +21,7 @@ scalable data pipelines, and agentic AI tools.
 - Developed **agentic AI tools** reducing equity research workflows from **days to hours**
 - Strong ownership across **backend systems, data pipelines, cloud deployments, and APIs**
 
-Currently open to **US/EU startups and high-impact Indian startups** focused on backend-heavy roles.
+
 
 ---
 
