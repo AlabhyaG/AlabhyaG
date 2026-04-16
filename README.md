@@ -1,100 +1,94 @@
-<h1 align="center">hey 👋 i'm alabhya</h1>
+<h1 align="center">Hey 👋 I'm Alabhya</h1>
 
 <p align="center">
-  backend engineer • algorithms • fintech • ai systems  
+  I build backend systems, trading infra, and AI tools that actually get used.
 </p>
 
 <p align="center">
-  <a href="mailto:goelalabhya@gmail.com">📧 email</a> •
-  <a href="https://www.linkedin.com/in/alabhya-goel/">linkedin</a> •
-  <a href="https://github.com/AlabhyaG">github</a> •
-  <a href="https://leetcode.com/u/G_Flow/">leetcode</a>
+  <a href="mailto:goelalabhya@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/alabhya-goel/">LinkedIn</a> •
+  <a href="https://github.com/AlabhyaG">GitHub</a> •
+  <a href="https://leetcode.com/u/G_Flow/">LeetCode</a>
 </p>
 
 ---
 
-## 🧠 about
+## ⚡ What I'm Into
 
-i like building systems that actually *do something*  
-
-- worked on fintech systems handling **20M+ market records**
-- built & deployed **algorithmic trading strategies**
-- reduced research workflows from **days → hours** using AI
-- enjoy working across **backend, data pipelines, and system design**
+* Building **low-latency backend systems**
+* Working with **market data & trading systems**
+* Designing things that scale (or at least try to 😄)
+* Exploring **agentic AI workflows**
 
 ---
 
-## 🏢 experience
+## 🛠️ Stuff I've Built
 
-### **siho research** — algo engineer  
-*intern → full-time* | noida | oct 2024 – present  
+### 📊 Market Data + Trading Systems
 
-- built a **market data pipeline** (20M+ OHLCV records)  
-  → made queries ~**4× faster** with indexing + caching  
-- developed a **technical analysis system** (20+ indicators)  
-  → cut manual research time by ~**30–40%**  
-- created a **backtesting + paper trading engine**  
-  → faster strategy validation (**~5×**)  
-- deployed **live trading strategies** with execution + risk control  
-- integrated **AngelOne APIs** for real-time trade execution  
-- built a **langchain-based AI research assistant**  
-  → workflows from **3–4 days → a few hours**
+* Pipelines handling **20M+ market records**
+* Custom **backtesting engine** for strategy validation
+* Live **algorithmic trading systems** (execution + risk control)
+* Heavy use of **Redis, PostgreSQL, and caching strategies**
 
 ---
 
-### **avkalan.ai** — ai intern *(remote)*  
-jul 2024 – oct 2024  
+### 🤖 AI Tools
 
-- built ML prototypes across finance, healthcare, retail  
-- worked with **pandas, scikit-learn, matplotlib**  
-- contributed to internal research + automation tools  
-
----
-
-## 🚀 project i enjoyed building
-
-### **ephemeral chat app**
-🔗 https://github.com/AlabhyaG/Ephemeral-Chat-Application  
-🔗 https://ephemeral-chat-application.onrender.com  
-
-- real-time chat system using **flask + socket.io + redis**  
-- supports **1:1 + small group messaging**  
-- messages auto-delete in **10 mins** (redis TTL, no DB storage)  
-- handled **sessions, reconnections, and room state** cleanly  
-- built for **low-latency + simplicity**
+* Built **AI-powered research workflows** (LangChain-based)
+* Reduced manual analysis from **days → hours**
+* Experimenting with **agent-style systems**
 
 ---
 
-## ⚙️ things i work with
+### 💬 Ephemeral Chat App
 
-**backend**
-- python, flask, redis, postgresql, sqlalchemy  
-- rest apis, websockets, celery  
+🔗 https://github.com/AlabhyaG/Ephemeral-Chat-Application
 
-**ai / data**
-- langchain, langgraph  
-- pandas, numpy, ta-lib  
-
-**infra**
-- aws, azure  
-- docker, github actions  
-
-**tools**
-- git, pytest, vscode  
+* Real-time chat using **Flask + Socket.IO + Redis**
+* Messages auto-expire (**TTL-based, no persistence**)
+* Handles **sessions, reconnections, and room state**
+* Simple idea, but fun backend challenges
 
 ---
 
-## 🏆 some stats
+## ⚙️ Tech I Use a Lot
 
-- 🏅 **AIR 871** — GATE 2024 (DA)  
-- ⭐ **1670** on leetcode  
-- 🎓 NPTEL (IIT KGP + IIT Ropar)
+**Backend**
+Python • Flask • Redis • PostgreSQL • SQLAlchemy
+
+**Realtime & Async**
+WebSockets • Celery
+
+**AI / Data**
+LangChain • Pandas • NumPy
+
+**Infra**
+Docker • AWS • GitHub Actions
 
 ---
 
-## 🤝 let's connect
+## 🧪 Currently Exploring
 
-always up for:
-- backend / systems discussions  
-- interesting ideas  
-- or just talking tech  
+* Better **system design patterns**
+* Scaling **real-time systems**
+* Making AI tools actually useful (not just demos)
+
+---
+
+## 📊 A Few Numbers
+
+* AIR 871 — GATE 2024 (DA)
+* 1670 rating on LeetCode
+
+---
+
+## 🤝 If You Want to Talk
+
+Open to:
+
+* interesting backend/system problems
+* building something cool
+* or just geeking out over tech
+
+---
