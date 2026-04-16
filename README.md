@@ -1,109 +1,100 @@
-<h1 align="center">Hi 👋, I'm Alabhya Goel</h1>
-<h3 align="center">
-Backend & Algorithm Engineer building production-grade fintech systems, 
-scalable data pipelines, and agentic AI tools.
-</h3>
+<h1 align="center">hey 👋 i'm alabhya</h1>
 
 <p align="center">
-  <a href="mailto:goelalabhya@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/alabhya-goel/">LinkedIn</a> •
-  <a href="https://github.com/AlabhyaG">GitHub</a> •
-  <a href="https://leetcode.com/u/G_Flow/">LeetCode</a>
+  backend engineer • algorithms • fintech • ai systems  
+</p>
+
+<p align="center">
+  <a href="mailto:goelalabhya@gmail.com">📧 email</a> •
+  <a href="https://www.linkedin.com/in/alabhya-goel/">linkedin</a> •
+  <a href="https://github.com/AlabhyaG">github</a> •
+  <a href="https://leetcode.com/u/G_Flow/">leetcode</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 about
 
-- Backend & Algorithm Engineer with **hands-on production experience in fintech**
-- Built systems processing **20M+ market records** with optimized indexing & caching
-- Designed and deployed **live algorithmic trading strategies**
-- Developed **agentic AI tools** reducing equity research workflows from **days to hours**
-- Strong ownership across **backend systems, data pipelines, cloud deployments, and APIs**
+i like building systems that actually *do something*  
 
-
-
----
-
-## 🏢 Professional Experience
-
-### **SIHO Research** — Algo Engineer *(Intern → Full-Time)*  
-📍 Noida | Oct 2024 – Present  
-
-- Built a **scalable market-data pipeline** processing **20M+ OHLCV records** across exchanges  
-  → Improved retrieval speed by **4×** using optimized indexing and caching  
-- Developed a **technical-analysis framework** with **20+ indicators**  
-  → Reduced manual equity research time by **30–40%**  
-- Created an **internal backtesting & paper-trading engine**  
-  → Enabled analysts to validate strategies **5× faster**  
-- Designed & deployed **production-grade algorithmic trading strategies**  
-  → Automated execution, capital allocation, and risk controls  
-- Integrated **AngelOne APIs** into InvestVidhi.com  
-  → Enabled one-click stock execution for users  
-- Built a **LangChain-based agentic AI equity research dashboard**  
-  → Reduced analyst workflows from **3–4 days to 3–4 hours**
+- worked on fintech systems handling **20M+ market records**
+- built & deployed **algorithmic trading strategies**
+- reduced research workflows from **days → hours** using AI
+- enjoy working across **backend, data pipelines, and system design**
 
 ---
 
-### **Avkalan.ai** — Artificial Intelligence Intern *(Remote)*  
-🗓️ Jul 2024 – Oct 2024  
+## 🏢 experience
 
-- Built ML prototypes across **finance, healthcare, and retail**
-- Worked with **scikit-learn, pandas, matplotlib**
-- Contributed to internal AI research & automation POCs
+### **siho research** — algo engineer  
+*intern → full-time* | noida | oct 2024 – present  
 
----
-
-## 🧠 Featured Project
-
-### **Ephemeral Chat Application**
-🔗 [Source Code](https://github.com/AlabhyaG/Ephemeral-Chat-Application)  
-🔗 [Live Demo](https://ephemeral-chat-application.onrender.com)
-
-- Built a **real-time chat backend** using **Flask, WebSockets (Socket.IO), Redis**
-- Supported **1:1 and small-group chats** with low-latency delivery
-- Implemented **ephemeral messaging** using Redis TTL  
-  → Messages auto-delete in **10 minutes**, zero disk persistence
-- Designed robust **server-side session management**
-  → Seamless reconnections & consistent room tracking
+- built a **market data pipeline** (20M+ OHLCV records)  
+  → made queries ~**4× faster** with indexing + caching  
+- developed a **technical analysis system** (20+ indicators)  
+  → cut manual research time by ~**30–40%**  
+- created a **backtesting + paper trading engine**  
+  → faster strategy validation (**~5×**)  
+- deployed **live trading strategies** with execution + risk control  
+- integrated **AngelOne APIs** for real-time trade execution  
+- built a **langchain-based AI research assistant**  
+  → workflows from **3–4 days → a few hours**
 
 ---
 
-## 🛠️ Tech Stack
+### **avkalan.ai** — ai intern *(remote)*  
+jul 2024 – oct 2024  
 
-**Core Backend**
-- Python, Flask, Redis, PostgreSQL, SQLAlchemy
-- REST APIs, WebSockets, Celery
-
-**AI & Data**
-- LangChain, LangGraph
-- Pandas, NumPy, TA-Lib
-
-**Cloud & DevOps**
-- AWS, Azure
-- Docker, GitHub Actions
-
-**Tools**
-- Git, Bitbucket, Pytest, VS Code
+- built ML prototypes across finance, healthcare, retail  
+- worked with **pandas, scikit-learn, matplotlib**  
+- contributed to internal research + automation tools  
 
 ---
 
-## 🏆 Achievements
+## 🚀 project i enjoyed building
 
-- 🏅 **AIR 871** in **GATE 2024 – Data Science & AI** (39,210 candidates)
-- ⭐ **1670 rating on LeetCode**
-- 🎓 NPTEL Certifications:
-  - Computer Vision (IIT Kharagpur)
-  - Deep Learning (IIT Ropar)
+### **ephemeral chat app**
+🔗 https://github.com/AlabhyaG/Ephemeral-Chat-Application  
+🔗 https://ephemeral-chat-application.onrender.com  
+
+- real-time chat system using **flask + socket.io + redis**  
+- supports **1:1 + small group messaging**  
+- messages auto-delete in **10 mins** (redis TTL, no DB storage)  
+- handled **sessions, reconnections, and room state** cleanly  
+- built for **low-latency + simplicity**
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ things i work with
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlabhyaG&show_icons=true&layout=compact" />
-</p>
+**backend**
+- python, flask, redis, postgresql, sqlalchemy  
+- rest apis, websockets, celery  
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlabhyaG&show_icons=true" />
-</p>
+**ai / data**
+- langchain, langgraph  
+- pandas, numpy, ta-lib  
+
+**infra**
+- aws, azure  
+- docker, github actions  
+
+**tools**
+- git, pytest, vscode  
+
+---
+
+## 🏆 some stats
+
+- 🏅 **AIR 871** — GATE 2024 (DA)  
+- ⭐ **1670** on leetcode  
+- 🎓 NPTEL (IIT KGP + IIT Ropar)
+
+---
+
+## 🤝 let's connect
+
+always up for:
+- backend / systems discussions  
+- interesting ideas  
+- or just talking tech  
