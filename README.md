@@ -15,7 +15,7 @@
 
 ## ⚡ What I'm Into
 
-* Building **low-latency backend systems**
+* Building **Scalable backend systems**
 * Working with **market data & trading systems**
 * Designing things that scale (or at least try to 😄)
 * Exploring **agentic AI workflows**
