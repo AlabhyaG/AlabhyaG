@@ -1,94 +1,54 @@
-<h1 align="center">Hey 👋 I'm Alabhya</h1>
+<h1 align="center">Alabhya Goel</h1>
+<p align="center"><b>Backend Engineer — AI & Data Systems</b></p>
 
 <p align="center">
-  I build backend systems, trading infra, and AI tools that actually get used.
+  2 years shipping data pipelines, async services, and LLM tools for products with live users and real data on the line.
 </p>
 
 <p align="center">
-  <a href="mailto:goelalabhya@gmail.com">📧 Email</a> •
+  <a href="mailto:goelalabhya@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/alabhya-goel/">LinkedIn</a> •
   <a href="https://github.com/AlabhyaG">GitHub</a> •
-  <a href="https://leetcode.com/u/G_Flow/">LeetCode</a>
+  <a href="https://leetcode.com/u/G_Flow/">LeetCode (1670)</a>
 </p>
 
 ---
 
-## ⚡ What I'm Into
+### Currently
 
-* Building **Scalable backend systems**
-* Working with **market data & trading systems**
-* Designing things that scale (or at least try to 😄)
-* Exploring **agentic AI workflows**
+Algorithm Engineer at **SIHO Research**, working on an algorithmic-trading platform — from ingestion pipelines through to the AI agents that sit on top of the data.
 
 ---
 
-## 🛠️ Stuff I've Built
+### Things I've worked on
 
-### 📊 Market Data + Trading Systems
+**🤖 AI stock-research agents**
+Quick Analysis and Deep Research agents (LangChain + GPT-4o) that condense ~30 minutes of deep equity due diligence — normally 1–2 days of analyst work — into an on-demand report. Orchestrated as async fan-out workflows over Celery + Redis.
 
-* Pipelines handling **20M+ market records**
-* Custom **backtesting engine** for strategy validation
-* Live **algorithmic trading systems** (execution + risk control)
-* Heavy use of **Redis, PostgreSQL, and caching strategies**
+**⚡ 85% latency cut on a simulation engine**
+Vectorized 80K–165K Python grid-search iterations into batched NumPy ops for a financial goal-planning tool — 20–30s down to under 5s, byte-for-byte identical output to the original.
 
----
+**🗄️ Ingestion pipeline for a 40M+ row market data store**
+Contributed to the backend ingesting daily OHLCV for 5,000 instruments — idempotent upserts and EXPLAIN-ANALYZE-driven indexing to keep it fault-tolerant, serving buy/sell signals through a JWT-secured API.
 
-### 🤖 AI Tools
+**🔎 SQLGenerator — natural language → SQL**
+Async LangGraph pipeline (FastAPI + Redis) with column-level retrieval and bounded multi-hop joins, plus EXPLAIN-based validation that feeds Postgres's own error hints back into retry attempts.
 
-* Built **AI-powered research workflows** (LangChain-based)
-* Reduced manual analysis from **days → hours**
-* Experimenting with **agent-style systems**
-
----
-
-### 💬 Ephemeral Chat App
-
-🔗 https://github.com/AlabhyaG/Ephemeral-Chat-Application
-
-* Real-time chat using **Flask + Socket.IO + Redis**
-* Messages auto-expire (**TTL-based, no persistence**)
-* Handles **sessions, reconnections, and room state**
-* Simple idea, but fun backend challenges
+**💬 Ephemeral Chat**
+Real-time chat, Flask + Socket.IO + Redis, TTL-based auto-expiring messages, no persistence by design.
 
 ---
 
-## ⚙️ Tech I Use a Lot
+### Stack
 
-**Backend**
-Python • Flask • Redis • PostgreSQL • SQLAlchemy
-
-**Realtime & Async**
-WebSockets • Celery
-
-**AI / Data**
-LangChain • Pandas • NumPy
-
-**Infra**
-Docker • AWS • GitHub Actions
+`Python` `FastAPI` `Flask` `Celery` `Redis` `PostgreSQL` `SQLAlchemy` `LangChain` `LangGraph` `Docker` `Azure`
 
 ---
 
-## 🧪 Currently Exploring
+### A few numbers
 
-* Better **system design patterns**
-* Scaling **real-time systems**
-* Making AI tools actually useful (not just demos)
+`AIR 871/39,210` — GATE 2024 (Data Science & AI) · `1670` LeetCode, 350+ solved · Top 5% — NPTEL Computer Vision & Deep Learning
 
 ---
 
-## 📊 A Few Numbers
-
-* AIR 871 — GATE 2024 (DA)
-* 1670 rating on LeetCode
-
----
-
-## 🤝 If You Want to Talk
-
-Open to:
-
-* interesting backend/system problems
-* building something cool
-* or just geeking out over tech
-
----
+<p align="center"><i>Open to backend / systems roles where correctness under load actually matters.</i></p>
